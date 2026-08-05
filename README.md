@@ -1,2 +1,2 @@
 # MLOps-CI
-This project is to demonstrate an end-to-end implementation of Continuos Integration.
+This project is to demonstrate an end-to-end implementation of Continuos Integration..
